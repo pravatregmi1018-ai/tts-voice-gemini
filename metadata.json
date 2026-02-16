@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Voice Studio",
+  "description": "A professional-grade long-form text-to-speech platform powered by Gemini 2.5 Flash. Supports large text inputs, multiple voice personas, and real-time audio generation.",
+  "requestFramePermissions": []
+}
